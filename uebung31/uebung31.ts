@@ -8,4 +8,4 @@ const firstNumber = getFirstElement([1, 2, 3]);                    // T → numb
 const firstString = getFirstElement(["apple", "banana", "cherry"]); // T → string
 
 console.log(firstNumber); // → 1
-console.log(firstString); // → "apple"
+console.log(firstString); // → "apple" 
